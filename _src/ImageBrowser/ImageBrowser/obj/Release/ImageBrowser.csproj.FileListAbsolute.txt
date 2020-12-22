@@ -1,0 +1,12 @@
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2008\Projects\ImageBrowser\ImageBrowser\bin\Release\ImageBrowser.exe
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2008\Projects\ImageBrowser\ImageBrowser\bin\Release\ImageBrowser.pdb
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2008\Projects\ImageBrowser\ImageBrowser\bin\Release\AForge.dll
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2008\Projects\ImageBrowser\ImageBrowser\bin\Release\AForge.Imaging.dll
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2008\Projects\ImageBrowser\ImageBrowser\bin\Release\AForge.Math.dll
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2008\Projects\ImageBrowser\ImageBrowser\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2008\Projects\ImageBrowser\ImageBrowser\obj\Release\ImageBrowser.frmMain.resources
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2008\Projects\ImageBrowser\ImageBrowser\obj\Release\ImageBrowser.frmShowFullImage.resources
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2008\Projects\ImageBrowser\ImageBrowser\obj\Release\ImageBrowser.Properties.Resources.resources
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2008\Projects\ImageBrowser\ImageBrowser\obj\Release\ImageBrowser.csproj.GenerateResource.Cache
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2008\Projects\ImageBrowser\ImageBrowser\obj\Release\ImageBrowser.exe
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2008\Projects\ImageBrowser\ImageBrowser\obj\Release\ImageBrowser.pdb

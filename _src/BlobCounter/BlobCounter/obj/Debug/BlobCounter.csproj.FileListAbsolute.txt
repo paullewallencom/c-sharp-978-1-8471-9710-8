@@ -1,0 +1,11 @@
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2008\Projects\BlobCounter\BlobCounter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2008\Projects\BlobCounter\BlobCounter\obj\Debug\BlobCounter.Properties.Resources.resources
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2008\Projects\BlobCounter\BlobCounter\obj\Debug\BlobCounter.csproj.GenerateResource.Cache
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2008\Projects\BlobCounter\BlobCounter\bin\Debug\BlobCounter.exe
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2008\Projects\BlobCounter\BlobCounter\bin\Debug\BlobCounter.pdb
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2008\Projects\BlobCounter\BlobCounter\bin\Debug\AForge.dll
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2008\Projects\BlobCounter\BlobCounter\bin\Debug\AForge.Imaging.dll
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2008\Projects\BlobCounter\BlobCounter\bin\Debug\AForge.Math.dll
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2008\Projects\BlobCounter\BlobCounter\obj\Debug\BlobCounter.exe
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2008\Projects\BlobCounter\BlobCounter\obj\Debug\BlobCounter.pdb
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2008\Projects\BlobCounter\BlobCounter\obj\Debug\BlobCounter.frmNebulaFinder.resources

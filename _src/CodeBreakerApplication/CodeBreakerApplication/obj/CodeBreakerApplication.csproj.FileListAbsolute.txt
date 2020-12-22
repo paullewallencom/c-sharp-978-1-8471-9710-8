@@ -1,0 +1,8 @@
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\CodeBreakerApplication\CodeBreakerApplication\bin\Debug\CodeBreakerApplication.exe
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\CodeBreakerApplication\CodeBreakerApplication\bin\Debug\CodeBreakerApplication.pdb
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\CodeBreakerApplication\CodeBreakerApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\CodeBreakerApplication\CodeBreakerApplication\obj\Debug\CodeBreakerApplication.Properties.Resources.resources
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\CodeBreakerApplication\CodeBreakerApplication\obj\Debug\CodeBreakerApplication.csproj.GenerateResource.Cache
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\CodeBreakerApplication\CodeBreakerApplication\obj\Debug\CodeBreakerApplication.exe
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\CodeBreakerApplication\CodeBreakerApplication\obj\Debug\CodeBreakerApplication.pdb
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\CodeBreakerApplication\CodeBreakerApplication\obj\Debug\CodeBreakerApplication.frmMain.resources

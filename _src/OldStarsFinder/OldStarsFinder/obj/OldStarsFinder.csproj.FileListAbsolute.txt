@@ -1,0 +1,16 @@
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\OldStarsFinder\OldStarsFinder\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\OldStarsFinder\OldStarsFinder\obj\Debug\OldStarsFinder.frmStarsFinder.resources
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\OldStarsFinder\OldStarsFinder\obj\Debug\OldStarsFinder.Properties.Resources.resources
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\OldStarsFinder\OldStarsFinder\obj\Debug\OldStarsFinder.csproj.GenerateResource.Cache
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\OldStarsFinder\OldStarsFinder\bin\Debug\OldStarsFinder.exe
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\OldStarsFinder\OldStarsFinder\bin\Debug\OldStarsFinder.pdb
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\OldStarsFinder\OldStarsFinder\obj\Debug\OldStarsFinder.exe
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\OldStarsFinder\OldStarsFinder\obj\Debug\OldStarsFinder.pdb
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\OldStarsFinder\OldStarsFinder\bin\Release\OldStarsFinder.exe
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\OldStarsFinder\OldStarsFinder\bin\Release\OldStarsFinder.pdb
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\OldStarsFinder\OldStarsFinder\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\OldStarsFinder\OldStarsFinder\obj\Release\OldStarsFinder.frmStarsFinder.resources
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\OldStarsFinder\OldStarsFinder\obj\Release\OldStarsFinder.Properties.Resources.resources
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\OldStarsFinder\OldStarsFinder\obj\Release\OldStarsFinder.csproj.GenerateResource.Cache
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\OldStarsFinder\OldStarsFinder\obj\Release\OldStarsFinder.exe
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\OldStarsFinder\OldStarsFinder\obj\Release\OldStarsFinder.pdb

@@ -1,0 +1,16 @@
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\SMSEncryption\SMSEncryption\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\SMSEncryption\SMSEncryption\obj\Debug\SMSEncryption.Properties.Resources.resources
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\SMSEncryption\SMSEncryption\obj\Debug\SMSEncryption.csproj.GenerateResource.Cache
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\SMSEncryption\SMSEncryption\bin\Debug\SMSEncryption.exe
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\SMSEncryption\SMSEncryption\bin\Debug\SMSEncryption.pdb
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\SMSEncryption\SMSEncryption\obj\Debug\SMSEncryption.exe
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\SMSEncryption\SMSEncryption\obj\Debug\SMSEncryption.pdb
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\SMSEncryption\SMSEncryption\obj\Debug\SMSEncryption.frmSMSEncryptionEngine.resources
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\SMSEncryption\SMSEncryption\bin\Release\SMSEncryption.exe
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\SMSEncryption\SMSEncryption\bin\Release\SMSEncryption.pdb
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\SMSEncryption\SMSEncryption\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\SMSEncryption\SMSEncryption\obj\Release\SMSEncryption.frmSMSEncryptionEngine.resources
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\SMSEncryption\SMSEncryption\obj\Release\SMSEncryption.Properties.Resources.resources
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\SMSEncryption\SMSEncryption\obj\Release\SMSEncryption.csproj.GenerateResource.Cache
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\SMSEncryption\SMSEncryption\obj\Release\SMSEncryption.exe
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\SMSEncryption\SMSEncryption\obj\Release\SMSEncryption.pdb

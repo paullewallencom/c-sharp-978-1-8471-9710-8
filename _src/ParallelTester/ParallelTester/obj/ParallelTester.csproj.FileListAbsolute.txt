@@ -1,0 +1,16 @@
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\ParallelTester\ParallelTester\bin\Debug\ParallelTester.exe
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\ParallelTester\ParallelTester\bin\Debug\ParallelTester.pdb
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\ParallelTester\ParallelTester\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\ParallelTester\ParallelTester\obj\Debug\ParallelTester.frmParallelPerformance.resources
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\ParallelTester\ParallelTester\obj\Debug\ParallelTester.Properties.Resources.resources
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\ParallelTester\ParallelTester\obj\Debug\ParallelTester.csproj.GenerateResource.Cache
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\ParallelTester\ParallelTester\obj\Debug\ParallelTester.exe
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\ParallelTester\ParallelTester\obj\Debug\ParallelTester.pdb
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\ParallelTester\ParallelTester\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\ParallelTester\ParallelTester\obj\Release\ParallelTester.frmParallelPerformance.resources
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\ParallelTester\ParallelTester\obj\Release\ParallelTester.Properties.Resources.resources
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\ParallelTester\ParallelTester\obj\Release\ParallelTester.csproj.GenerateResource.Cache
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\ParallelTester\ParallelTester\bin\Release\ParallelTester.exe
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\ParallelTester\ParallelTester\bin\Release\ParallelTester.pdb
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\ParallelTester\ParallelTester\obj\Release\ParallelTester.exe
+C:\Documents and Settings\gaston01\Mis documentos\Visual Studio 2005\Projects\ParallelTester\ParallelTester\obj\Release\ParallelTester.pdb
